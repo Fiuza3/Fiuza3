@@ -1,4 +1,4 @@
-## Marcus Fiuza
+# Marcus Fiuza
 # 💫 Sobre Mim:
 Programador fullstack em transição de carreira, com foco em construir soluções reais enquanto desenvolve fluência nas principais stacks modernas (Vue.js, Node.js, JavaScript, etc.). Comprometido em transformar aprendizado técnico em projetos aplicáveis e impacto direto. Cada linha de código no portfólio reflete intencionalidade, evolução e propósito profissional. < br > < br >
 
