@@ -16,23 +16,6 @@ Transformo problemas complexos em soluções funcionais e bem arquitetadas.
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31206070/dev-fiuza)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fiuzadev.online)
 
----
-
-## 💼 Sobre mim
-
-Desenvolvedor Full Stack com sólida experiência em desenvolvimento de aplicações web modernas, desde sistemas corporativos complexos até sites institucionais de alta performance.
-
-**Principais competências:**
-- 🎨 Desenvolvimento Frontend com **Vue.js 3 (Composition API)** e **React.js**
-- ⚙️ Backend robusto com **Node.js**, **Express** e **APIs RESTful**
-- 🗄️ Integração com bancos de dados **SQL Server** e **MongoDB**
-- 🔐 Implementação de autenticação JWT, segurança (Helmet, Rate Limiting) e criptografia
-- 🚀 Performance e otimização (lazy loading, code splitting, SEO técnico)
-- 📱 Design responsivo e acessibilidade (WCAG)
-- 🔄 CI/CD, Git/GitHub e metodologias ágeis (Scrum/Kanban)
-
----
-
 ## 🛠️ Tech Stack
 
 ### **Frontend**
