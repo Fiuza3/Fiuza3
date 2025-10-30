@@ -6,8 +6,6 @@ Especializado em criar interfaces modernas, escaláveis e performáticas, com fo
 Transformo problemas complexos em soluções funcionais e bem arquitetadas.
 
 🎓 Cursando **Bacharelado em Sistemas de Informação** na Estácio  
-💼 **+2 anos** de experiência em desenvolvimento web  
-🌎 Localizado em **Belo Horizonte, Brasil**
 
 ---
 
@@ -54,45 +52,6 @@ Transformo problemas complexos em soluções funcionais e bem arquitetadas.
 ### **Metodologias**
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-## 🚀 Projetos em Destaque
-
-### 🔐 **BrazucaProxy** (2025)
-Sistema corporativo completo de gerenciamento de proxies IPv4/IPv6
-- **Stack:** Vue.js 3 (Composition API), Node.js, Express, SQL Server
-- **Destaques:** Painel administrativo, autenticação JWT, controle financeiro, monitoramento de tráfego em tempo real
-- **Arquitetura:** RESTful API, Procedures SQL Server, Rate Limiting, Helmet para segurança
-- **Foco:** Performance, escalabilidade e SEO técnico
-
-### 🎵 **Site Daniel Ramos** (2025)
-Site institucional responsivo para cantor gospel
-- **Stack:** React.js, Vercel
-- **Destaques:** Design minimalista, SEO avançado, SSL/HTTPS, domínio personalizado
-- **Performance:** Lazy loading, code splitting, compressão de assets
-- **Entrega:** 3 semanas do design ao deploy em produção
-
----
-
-## 💼 Experiência Profissional
-
-**Desenvolvedor Full-Stack Autônomo** • Set 2025 - Presente  
-_Desenvolvimento de sistemas corporativos e sites institucionais de alta performance_
-
-**Desenvolvedor Full-Stack** • Teknisa • Out 2024 - Set 2025  
-_Framework Zeedhi, aplicações empresariais, integrações entre sistemas, metodologias ágeis_
-
-**Técnico de TI** • SONDA • Mai 2023 - Jun 2024  
-_Suporte técnico Windows/Linux, troubleshooting, GLPI/ServiceNow, Scrum/Kanban_
-
----
-
-## 📜 Certificações
-
-✅ **Responsive Web Design**  
-✅ **Curso de JavaScript e TypeScript do básico ao avançado**  
-✅ **Curso Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex)**
 
 ---
 
