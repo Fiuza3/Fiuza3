@@ -11,7 +11,6 @@ Transformo problemas complexos em soluções funcionais e bem arquitetadas.
 
 ## 🔗 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devfiuza/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31206070/dev-fiuza)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fiuzadev.online)
 
 ## 🛠️ Tech Stack
