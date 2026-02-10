@@ -80,7 +80,7 @@ Transformo problemas complexos em soluções funcionais e bem arquitetadas.
 ## 🌟 Portfólio
 
 Quer ver meus projetos em ação? Visite meu portfólio:  
-**[fiuzadev.online](https://fiuzadev.online)**
+**[Portfolio](https://fiuzadev.online](https://www.mfdesenvolvimento.online/))**
 
 ---
 
