@@ -12,7 +12,7 @@ Transformo problemas complexos em soluções escaláveis, bem arquitetadas e pro
 
 
 
-🎓 Cursando **Bacharelado em Sistemas de Informação** na Estácio
+
 
 ---
 
@@ -97,6 +97,7 @@ Transformo problemas complexos em soluções escaláveis, bem arquitetadas e pro
 
 ---
 
+🎓 Cursando **Bacharelado em Sistemas de Informação**
 <p align="center">
   <i>💡 Construindo produtos reais, com escala real.</i>
 </p>
